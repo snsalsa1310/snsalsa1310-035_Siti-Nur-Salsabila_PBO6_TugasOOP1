@@ -37,5 +37,5 @@ Status Pembayaran: Pembayaran Berhasil dengan Transfer Bank
 Terdapat 3 Objek (Siti, Ciciripi, dan Asnawi) sesuai Case Study di atas
 
 ## Pengumpulan
-Deadline: Jumat, 11 April 23:59 WIB
+Deadline: Selasa, 08 April 23:59 WIB <br>
 RepoForkName: NIM_Nama_PBO6_TugasOOP1
