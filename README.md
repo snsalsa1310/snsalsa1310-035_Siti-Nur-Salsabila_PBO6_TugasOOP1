@@ -32,3 +32,10 @@ Status Pembayaran: Pembayaran Berhasil dengan Voucher Diskon
 Total Harga Sebelum Diskon: Rp 1.200.000 <br>
 Metode Pembayaran: Transfer Bank <br>
 Status Pembayaran: Pembayaran Berhasil dengan Transfer Bank
+
+### Output
+Terdapat 3 Objek (Siti, Ciciripi, dan Asnawi) sesuai Case Study di atas
+
+## Pengumpulan
+Deadline: Jumat, 11 April 23:59 WIB
+RepoForkName: NIM_Nama_PBO6_TugasOOP1
