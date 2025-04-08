@@ -13,7 +13,7 @@ Sebagai seorang developer junior di tim IKLCMart, kamu ditugaskan untuk membuat 
 - Return Type Method: Mengembalikan totalPrice setelah di diskon jika memakai Voucher
 
 ### Main Class
-- Inheritance
+- Instansiasi
 - Menampilkan Total Harga sebelum diskon
 - Menampilkan Metode Pembayaran
 - Menampilkan Status Pembayaran
